@@ -1,4 +1,4 @@
-name: py3_dev
+name: nbsphinx_test
 channels:
   - conda-forge 
   - defaults
@@ -19,7 +19,7 @@ dependencies:
   - sphinx
   - sphinx-autobuild
   - sphinx_rtd_theme
-  - nbsphinx
   - graphviz
   - pint
   - pytest
+  - nbsphinx
